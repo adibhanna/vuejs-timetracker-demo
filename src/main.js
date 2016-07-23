@@ -34,9 +34,3 @@ router.redirect({
 })
 
 router.start(App, '#app')
-
-// /* eslint-disable no-new */
-// new Vue({
-//   el: 'body',
-//   components: { App }
-// })
